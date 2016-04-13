@@ -3,4 +3,25 @@ div#homepage {
     height: 100%;
     margin: 0%;
     padding: 0%;
+    color: #F89600;
+    text-align: center;
+}
+p#intro {
+    margin-top: 6%;
+    font-size: 2em;
+}
+b#name {
+    font-size: 2em;
+}
+b#b2 {
+    color: whitesmoke;
+    font-size: 1em;
+}
+hr {
+    width: 7%;
+    border-width: 4px;
+}
+p#intro1 {
+    color: white;
+    margin-top: 7em;
 }
