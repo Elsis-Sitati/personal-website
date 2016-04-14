@@ -42,3 +42,28 @@ i.fa.fa-arrow-circle-down.fa-4x.hvr-icon-sink {
         width: 18%;
     }
 }
+.terminal {
+    background: transparent;
+    position: absolute;
+    text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.4);
+    width: 250px;
+    font: inherit;
+    border: none;
+    outline: none;
+    color: inherit;
+    font-size: 20px;
+}
+.dollar:before {
+    content: '$';
+    color: #F89600;
+    font-size: 20px
+}
+.home {
+    color: #e28d47;
+    padding-bottom: 3px;
+}
+a {
+    font: 12px "Monaco", Inconsolata, monospace;
+    text-decoration: underline;
+    color: #f8f8f8;
+}
