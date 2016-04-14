@@ -73,3 +73,18 @@ div#about {
     height: 100%;
     font-size: 20px;
 }
+.small-centered {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3%;
+}
+p#pabt {
+    margin-left: 5%;
+    -webkit-animation-delay: 1s;
+}
+b#babt {
+    color: white;
+    font-size: 28px;
+    margin-left: 30%;
+}
