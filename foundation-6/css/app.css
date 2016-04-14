@@ -67,3 +67,9 @@ a {
     text-decoration: underline;
     color: #f8f8f8;
 }
+div#about {
+    background-color: #293138;
+    color: #F89600;
+    height: 100%;
+    font-size: 20px;
+}
