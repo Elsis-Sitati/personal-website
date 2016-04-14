@@ -88,3 +88,25 @@ b#babt {
     font-size: 28px;
     margin-left: 30%;
 }
+b#babt1 {
+    color: white;
+}
+p#skills {
+    margin-left: 31%;
+    color: white;
+    text-decoration: underline;
+}
+div#taminal {
+    margin-left: 20%;
+}
+@media screen and (max-width: 39.9375em) {
+    p#pabt {
+        font-size: 16px;
+    }
+    .small-centered {}
+    div#taminal {}
+}
+i#two {
+    margin-top: 24%;
+    margin-left: 30%;
+}
