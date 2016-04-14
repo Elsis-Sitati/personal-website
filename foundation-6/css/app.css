@@ -35,4 +35,10 @@ i.fa.fa-arrow-circle-down.fa-4x.hvr-icon-sink {
         margin-left: 4%;
         margin-right: 4%;
     }
+    i.fa.fa-arrow-circle-down.fa-4x.hvr-icon-sink {
+        margin-left: 12%;
+    }
+    hr {
+        width: 18%;
+    }
 }
