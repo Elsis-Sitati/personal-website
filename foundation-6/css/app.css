@@ -110,3 +110,11 @@ i#two {
     margin-top: 24%;
     margin-left: 30%;
 }
+div#portfolio {
+    height: 100%;
+}
+.small-10.small-centered.columns {
+    background-color: #293138;
+    margin-top: 4%;
+    height: 83%;
+}
