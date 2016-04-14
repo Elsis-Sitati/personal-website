@@ -28,3 +28,11 @@ p#intro1 {
 i.fa.fa-arrow-circle-down.fa-4x.hvr-icon-sink {
     margin-left: 3%;
 }
+@media screen and (max-width: 39.9375em) {
+    p#intro {
+        font-size: 25px;
+        margin-top: 20%;
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+}
