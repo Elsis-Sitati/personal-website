@@ -112,13 +112,15 @@ i#two {
 }
 div#portfolio {
     height: 100%;
+    background-color: #293138;
 }
 .small-10.small-centered.columns {
     background-color: #293138;
     margin-top: 4%;
     height: 83%;
 }
-div#anim {  -webkit-animation-delay: 1s;
+div#anim {
+    -webkit-animation-delay: 1s;
 }
 div#anim1 {
     -webkit-animation-delay: 2s;
@@ -128,18 +130,42 @@ div#anim2 {
 }
 div#anim3 {
     -webkit-animation-delay: 4s;
+    margin-top: 1em;
 }
 div#anim4 {
     -webkit-animation-delay: 5s;
+    margin-top: 1em;
 }
 div#anim5 {
     -webkit-animation-delay: 6s;
+    margin-top: 1em;
 }
 div#bg {
     height: 12.7em;
-    background: rgba(0,0,0,.72) none repeat scroll 0 0;
+    background: rgba(0, 0, 0, .72) none repeat scroll 0 0;
     position: relative;
     width: 100%;
     margin-top: -68.4%;
     text-align: center;
+}
+p#p6 {
+    padding-top: 6em;
+}
+b#bpt1 {
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+b#bpt2 {
+    color: #F89600;
+    font-family: 'Lato', sans-serif;
+}
+div#bg:hover {
+    display: none;
+}
+p#plio {
+    color: white;
+    margin-left: 50%;
+    font-size: 2em;
+    margin-top: -4%;
+    font-family: 'Lobster', cursive;
 }
