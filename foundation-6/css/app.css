@@ -184,4 +184,37 @@ a.button {
     margin-left: 50%;
     text-decoration: none;
     background-color: #F89600;
+    margin-top: 7%;
+}
+p#last {
+    margin-top: 2%;
+    margin-left: 26%;
+    color: #F89600;
+}
+i.fa.fa-facebook-official.fa-4x {
+    margin-left: 8%;
+}
+i.fa.fa-twitter.fa-4x {
+    margin-left: 8%;
+}
+p#last {
+    margin-top: 5%;
+    margin-left: 44%;
+    color: #F89600;
+}
+i.fa.fa-facebook-official.fa-4x:hover {
+    color: white;
+}
+i.fa.fa-twitter.fa-4x:hover {
+    color: white;
+}
+i.fa.fa-github.fa-4x:hover {
+    color: white;
+}
+h1 {
+    font-size: 30px;
+    color: white;
+    margin-top: 2%;
+    margin-left: 45%;
+    font-family: 'Lora', serif;
 }
