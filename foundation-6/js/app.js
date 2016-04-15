@@ -39,3 +39,14 @@ $(document).ready(function () {
         });
     });
 });
+$('.fa fa-arrow-circle-down fa-4x').click(function (event) {
+    event.preventDefault();
+    var href = this.href;
+
+    $('#about').animate({
+            top: '300px'
+        }, 500,
+        function () {
+            window.location = href;
+        });
+});
