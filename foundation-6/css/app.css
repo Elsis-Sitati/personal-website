@@ -169,3 +169,19 @@ p#plio {
     margin-top: -4%;
     font-family: 'Lobster', cursive;
 }
+div#contacts {
+    background-color: #293138;
+    height: 100%;
+}
+form {
+    margin-top: 6%;
+}
+textarea {
+    height: 9em;
+    max-width: 100%;
+}
+a.button {
+    margin-left: 50%;
+    text-decoration: none;
+    background-color: #F89600;
+}
