@@ -118,3 +118,21 @@ div#portfolio {
     margin-top: 4%;
     height: 83%;
 }
+div#anim {
+    -webkit-animation-delay: 1s;
+}
+div#anim1 {
+    -webkit-animation-delay: 2s;
+}
+div#anim2 {
+    -webkit-animation-delay: 3s;
+}
+div#anim3 {
+    -webkit-animation-delay: 4s;
+}
+div#anim4 {
+    -webkit-animation-delay: 5s;
+}
+div#anim5 {
+    -webkit-animation-delay: 6s;
+}
