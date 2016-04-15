@@ -118,8 +118,7 @@ div#portfolio {
     margin-top: 4%;
     height: 83%;
 }
-div#anim {
-    -webkit-animation-delay: 1s;
+div#anim {  -webkit-animation-delay: 1s;
 }
 div#anim1 {
     -webkit-animation-delay: 2s;
@@ -135,4 +134,12 @@ div#anim4 {
 }
 div#anim5 {
     -webkit-animation-delay: 6s;
+}
+div#bg {
+    height: 12.7em;
+    background: rgba(0,0,0,.72) none repeat scroll 0 0;
+    position: relative;
+    width: 100%;
+    margin-top: -68.4%;
+    text-align: center;
 }
